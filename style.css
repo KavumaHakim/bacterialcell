@@ -4,3 +4,22 @@ body{
     background-color: black;
     color: white;
 }
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 2rem;
+}
+p span{
+    color: greenyellow;
+    text-decoration: solid green 2px;
+}
+
+spline-viewer{
+    height: 100vh;
+    width: 100%;
+}
