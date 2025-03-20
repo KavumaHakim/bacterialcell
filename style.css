@@ -17,14 +17,15 @@ h1{
     font-size: 5rem;
 }
 p span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: greenyellow;
+    font-size: 1.2rem;
     text-decoration: solid green 2px;
 }
 
 spline-viewer{
     height: 100vh;
     width: 100%;
-    background-color: black;
 }
 footer{
     background-color: rgb(13, 13, 110);
