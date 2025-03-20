@@ -24,6 +24,7 @@ p span{
 spline-viewer{
     height: 100vh;
     width: 100%;
+    background-color: black;
 }
 footer{
     background-color: rgb(13, 13, 110);
