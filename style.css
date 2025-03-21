@@ -36,3 +36,9 @@ footer{
 footer p{
     font-size: 1.2rem;
 }
+.logo{
+    border: 1px transparent solid;
+    border-radius: 15px;
+    
+
+}
