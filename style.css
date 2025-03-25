@@ -32,14 +32,13 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 20vh;
 }
 footer p{
     font-size: 1.2rem;
 }
-
-figure{
-    margin: 0;
+.logo{
     border: 1px transparent solid;
     border-radius: 15px;
+    
+
 }
